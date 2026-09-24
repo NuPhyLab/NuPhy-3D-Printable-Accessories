@@ -19,6 +19,7 @@ Print, customize, and make your setup your own.
 - Switch Plate
 
 [View Kick75 3D Files →](./Kick75)
+
 [View Kick75 Product Page →](https://nuphy.com/products/nuphy-kick75)
 
 ### Node
@@ -35,7 +36,9 @@ Print, customize, and make your setup your own.
 - Themed Keycap Display Base
 
 [View Node High-Profile Files →](./Node/High-Profile)
+
 [View Node High-Profile Product Page →]([https://nuphy.com/products/nuphy-kick75](https://nuphy.com/products/nuphy-node-series-high-profile-page))
 
 [View Node Low-Profile Files →](./Node/Low-Profile)
+
 [View Node Low-Profile Product Page →]([./Node/Low-Profile](https://nuphy.com/products/nuphy-node-series-low-profile-page))
