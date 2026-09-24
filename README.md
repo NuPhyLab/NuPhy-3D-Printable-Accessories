@@ -37,8 +37,8 @@ Print, customize, and make your setup your own.
 
 [View Node High-Profile Files →](./Node/High-Profile)
 
-[View Node High-Profile Product Page →]([./Node/High-Profile]https://nuphy.com/products/nuphy-node-series-high-profile-page)
+[View Node High-Profile Product Page →](https://nuphy.com/products/nuphy-node-series-high-profile-page)
 
 [View Node Low-Profile Files →](./Node/Low-Profile)
 
-[View Node Low-Profile Product Page →]([./Node/Low-Profile](https://nuphy.com/products/nuphy-node-series-low-profile-page))
+[View Node Low-Profile Product Page →](https://nuphy.com/products/nuphy-node-series-low-profile-page)
